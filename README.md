@@ -1,5 +1,4 @@
 Programs
 ========
 
-My first Ruby programs
-These are a few of the first programs I learned to code in Ruby.
+My first Ruby programs that I learned from Chris Pine's book Learn to Program.
